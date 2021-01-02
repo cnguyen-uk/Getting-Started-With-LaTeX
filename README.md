@@ -45,7 +45,7 @@ With all of the installation business out of the way, you can start working on p
 
 Whenever you want to make a new document, you should give it a separate folder on your computer, since compiling a LaTeX document produces four other files, so things can get messy quite quickly.
 
-The [template.tex](https://github.com/cnguyen-uk/Getting-Started-With-LaTeX/blob/master/template.tex) can be used to get yourself started quickly so that you don't need to spend time searching for which packages you need to use. Put this into its own folder and experiment with it (if you're using LaTeX locally, then it is normal for the first compilation to take some time since the distribution needs to download packages). If at the bottom you have the *Structure* menu open, then on the very left you can use the small boxes to help you find some common symbols.
+The [`template.tex`](https://github.com/cnguyen-uk/Getting-Started-With-LaTeX/blob/master/template.tex) can be used to get yourself started quickly so that you don't need to spend time searching for which packages you need to use. Put this into its own folder and experiment with it (if you're using LaTeX locally, then it is normal for the first compilation to take some time since the distribution needs to download packages). If at the bottom you have the *Structure* menu open, then on the very left you can use the small boxes to help you find some common symbols.
 
 Here are some more common pieces of LaTeX that will be useful (just refer to these when you need to - you absolutely do not need to memorise the pages):
 
